@@ -12,9 +12,9 @@ The original Hall I and Cloister FBG workbooks are available through Zenodo (DOI
 
 ## LaTeX (paste into the manuscript)
 
-The original Hall I and Cloister FBG workbooks are available on Zenodo (DOIs 10.5281/zenodo.3256111 and 10.5281/zenodo.3248893) \\cite{storm,stormcloister}. The dataset links, source citations and checksums are indexed at \\url{https://github.com/dev-ahmed01/ICSH-HeritageGuard}. Retrospective code and processed outputs are not yet deposited in this public repository. Original E1 results remain separate from reconstructed and transfer results.
+The original Hall I and Cloister FBG workbooks are available on Zenodo (DOIs 10.5281/zenodo.3256111 and 10.5281/zenodo.3248893) \cite{storm,stormcloister}. The dataset links, source citations and checksums are indexed at \url{https://github.com/dev-ahmed01/ICSH-HeritageGuard}. Retrospective code and processed outputs are not yet deposited in this public repository. Original E1 results remain separate from reconstructed and transfer results.
 
-**Important:** add `\\usepackage{url}` in the document preamble if no package already provides `\\url`. This is a textual URL without the need to enable `hyperref` or PDF link annotations.
+**Important:** add `\usepackage{url}` in the document preamble if no package already provides `\url`. This is a textual URL without the need to enable `hyperref` or PDF link annotations.
 
 Do not add a repository link that requires Google sign-in or points to an unverified private folder as evidence of public availability.
 
