@@ -1,0 +1,23 @@
+{
+  "scope": "dataset source links only; no raw files or analysis code hosted in repository as of 2026-11-04",
+  "datasets": [
+    {
+      "id": "hall_i",
+      "role": "original E1-E4 study",
+      "record": "https://zenodo.org/records/3256111",
+      "doi": "10.5281/zenodo.3256111",
+      "filename": "Hall1_FBG_Dataset2017-2019.xlsx",
+      "md5": "aa52a4f3d4421640a2b4e590f7bd4a02",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "cloister",
+      "role": "retrospective cross-location study",
+      "record": "https://zenodo.org/records/3248893",
+      "doi": "10.5281/zenodo.3248893",
+      "filename": "Cloister_FBG_Dataset2018-2019.xlsx",
+      "md5": "2d54933990aba9b24f4b50444988b541",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}
